@@ -1,0 +1,50 @@
+#title {
+  font-family: 'Gamja Flower', cursive;
+  font-size: 42px;
+  color: white;
+  display: block;
+  background-color: purple;
+  padding-left: 20px;
+}
+
+#title2 {
+  font-family: 'Gamja Flower', cursive;
+  font-size: 42px;
+  color: white;
+  display: block;
+  background-color: purple;
+  padding-left: 20px;
+}
+
+.tophead {
+  display: inline-block;
+  width: 100%;
+  background-color: purple;
+}
+
+#weird {
+  font-size: 30px;
+  font-family: 'Black And White Picture', sans-serif;
+  color: purple;
+}
+
+#AlertNas {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: yellow;
+  display: inline-block;
+  background-color: red;
+}
+
+#Copyright {
+  text-align: center;
+  color: white;
+  width: 100%;
+  display: inline-block;
+  background-color: purple;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+#Link {
+  color:red;
+}
